@@ -4,7 +4,7 @@ import com.pranit.Concepts.Parent;
 public class Child extends Parent{
   public static void main(String[] args) {
 
-//    Parent obj=new Child(); wont work!!! coz is protected
+//    Parent obj=new Child(); wontwork!!! coz is protected
 //    int a=obj.num;
 //    System.out.println("Number="+a);
 
