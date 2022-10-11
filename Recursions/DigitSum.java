@@ -3,8 +3,8 @@ package com.pranit.Recursions;
 public class DigitSum {
     public static void main(String args[])
     {
-        int ans= sum(1234);
-        System.out.println(ans);
+        int answer= sum(1234);
+        System.out.println(answer);
     }
     static int sum(int no)
     {
