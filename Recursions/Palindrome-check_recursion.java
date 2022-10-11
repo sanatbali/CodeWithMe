@@ -14,7 +14,6 @@ static int rev(int num, int temp)
     return rev(num / 10, temp);
 }
  
-// Driver Code
 public static void main (String[] args)
 {
     int num = 121;
