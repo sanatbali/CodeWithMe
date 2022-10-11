@@ -3,8 +3,8 @@ package com.pranit.Recursions;
 public class DigitProduct {
 
     public static void main(String[] args) {
-       int ans= prod(25);
-        System.out.println(ans);
+       int answer= prod(1250);
+        System.out.println(answer);
     }
     static int prod(int no)
     {
