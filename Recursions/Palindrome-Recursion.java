@@ -14,7 +14,7 @@ public class Main {
       return false;
    }
    public static void main(String args[]){
-      String myString = "malayalam";
+      String myString = "Nitin";
       if (isPalindrome(myString)){
          System.out.println("Given String is a palindrome");
       }else{
