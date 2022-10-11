@@ -39,5 +39,5 @@ public class Linear_Recurrsion {
     }
 }
 //TIME COMP
-//BEST - O(1)
+//BEST Complexity - O(1)
 //WORST-O(N)
