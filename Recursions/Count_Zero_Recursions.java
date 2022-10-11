@@ -3,7 +3,7 @@ package com.pranit.Recursions;
 public class Count_Zero_Recursions {
 
     public static void main(String[] args) {
-        System.out.println(count_zero(1023,0));
+        System.out.println(count_zero(102555,0));
 
 
 }
